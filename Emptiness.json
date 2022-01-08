@@ -29,10 +29,10 @@
     },
     "fonts": {},
     "manifest": {
-        "updater": "https:\/\/raw.githubusercontent.com\/Blurripy\/The-Cosmonaute-In-The-Universe\/main\/TheCosmonauteInTheUniverse.json",
         "version": "1.1",
         "name": "Emptiness. ",
-        "author": "Skyluf"
+        "author": "Skyluf",
+        "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Emptiness-theme\/main\/Emptiness.json"
     },
     "simple_colors": {
         "accent": -1052689,
