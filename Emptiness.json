@@ -1,9 +1,9 @@
 {
     "background": {
         "alpha": 255,
-        "blur_radius": 25,
         "url": "https:\/\/i.imgur.com\/kOI4vqj.png",
-        "overlay_alpha": 100
+        "overlay_alpha": 50,
+        "blur_radius": 2
     },
     "colors": {
         "brand": -14013910,
@@ -29,7 +29,7 @@
     },
     "fonts": {},
     "manifest": {
-        "version": "1.1",
+        "version": "1.2",
         "name": "Emptiness. ",
         "author": "Skyluf",
         "updater": "https:\/\/raw.githubusercontent.com\/skyluf\/Emptiness-theme\/main\/Emptiness.json"
