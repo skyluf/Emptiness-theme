@@ -20,7 +20,8 @@
         "uikit_btn_bg_color_selector_secondary_dark": -16777216,
         "uikit_btn_bg_color_selector_secondary_light": -15000543,
         "uikit_btn_compound_color_selector_light": -1124073472,
-        "primary_dark_660": 1459617792
+        "primary_dark_660": 1459617792,
+        "link_500": -11824171
     },
     "drawable_tints": {
         "drawable_button_grey": -8288631,
