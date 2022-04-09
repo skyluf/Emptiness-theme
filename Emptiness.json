@@ -1,9 +1,9 @@
 {
     "background": {
         "alpha": 255,
-        "url": "https:\/\/i.imgur.com\/kOI4vqj.png",
-        "overlay_alpha": 50,
-        "blur_radius": 2
+        "blur_radius": 5,
+        "overlay_alpha": 60,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/900580913065377892\/962336916781547590\/kOI4vqj.png"
     },
     "colors": {
         "brand": -14013910,
@@ -11,7 +11,7 @@
         "brand_600": -14013910,
         "brand_new": -14013910,
         "flexInputIconColor": -12895429,
-        "link": -14188851,
+        "link": -11824171,
         "link_light": -9459234,
         "material_grey_50": -15000543,
         "uikit_btn_bg_color_selector_background_accent_light": -15329762,
